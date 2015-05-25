@@ -29,3 +29,8 @@ Options:
 ```sh
 $ python jinja4cli template.j2 params.yaml
 ```
+
+## Useful links
+
+- [Jinja2: Template Designer Documentation](http://jinja.pocoo.org/docs/dev/templates/) This document describes the syntax and semantics of the template engine and will be most useful as reference to those creating Jinja templates. As the template engine is very flexible, the configuration from the application can be slightly different from the code presented here in terms of delimiters and behavior of undefined values.
+
