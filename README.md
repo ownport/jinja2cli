@@ -1,6 +1,6 @@
 # jinja2cli
 
-The bundle for Jinja2 templates via command line
+The bundle for working Jinja2 templates via command line
 
 ## Installation
 
@@ -11,7 +11,7 @@ $ cd jinja2cli
 $ zip -r ../jinja2cli.zip .
 $ cd ..
 $ mv jinja2cli.zip j2cli
-$ $ python j2cli
+$ python j2cli
 Usage: j2cli [options] <input template> <input data>
 
 Options:
@@ -22,3 +22,6 @@ Options:
   -e EXTENSIONS, --extension=EXTENSIONS
                         extra jinja2 extensions to load
 ```
+
+## How to use
+
