@@ -1,4 +1,4 @@
-# jinja2cli
+# jinja4cli
 
 The bundle for working Jinja2 templates via command line
 
@@ -7,12 +7,12 @@ The bundle for working Jinja2 templates via command line
 To make python zip package:
 
 ```sh
-$ cd jinja2cli
-$ zip -r ../jinja2cli.zip .
+$ cd jinja4cli
+$ zip -r ../jinja4cli.zip .
 $ cd ..
-$ mv jinja2cli.zip j2cli
-$ python j2cli
-Usage: j2cli [options] <input template> <input data>
+$ mv jinja4cli.zip jinja4cli
+$ python jinja4cli
+Usage: jinja4cli [options] <input template> <input data>
 
 Options:
   --version             show program's version number and exit
