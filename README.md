@@ -25,3 +25,7 @@ Options:
 
 ## How to use
 
+
+```sh
+$ python jinja4cli template.j2 params.yaml
+```
