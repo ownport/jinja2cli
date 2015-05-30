@@ -2,6 +2,13 @@
 
 The bundle for working Jinja2 templates via command line
 
+## Based on
+
+- jinja2 2.7.3
+- jinja2cli 0.4.0
+- markupsafe 0.23
+- pyYaml 3.11
+
 ## Installation
 
 To make python zip package:
